@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1 {
+    background-color: lightgrey;
+    border-radius: 5px;
+    width: 560px;
+}
+
+img {
+    width: 560px;
+    height: auto;
+    border-radius: 5px;
+}
+
+ul {
+    background-color: lightblue;
+    border-radius: 20px;
+    width: 500px;
+    padding: 30px;
+}
