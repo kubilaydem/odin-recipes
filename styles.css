@@ -2,9 +2,20 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
+div {
+    margin: 30px;
+}
+
 h1 {
-    background-color: lightgrey;
-    border-radius: 5px;
+    border: 5px ridge lightblue;
+    width: 560px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 25px;
+    text-align: center;
+}
+
+p {
     width: 560px;
 }
 
@@ -12,11 +23,17 @@ img {
     width: 560px;
     height: auto;
     border-radius: 5px;
+    
 }
 
 ul {
     background-color: lightblue;
     border-radius: 20px;
-    width: 500px;
+    width: 560px;
     padding: 30px;
+    box-sizing: border-box;
+}
+
+li {
+    width: 560px;
 }
